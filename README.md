@@ -3,10 +3,13 @@
 
 <br>
 <h2>Sobre mi </h2>
+<!--Comienzo de inicio-->
 
 <p align="left">
   ESTUDIANTE EN INGENIERIA DE SOFTWARE
+  
   Contacto: **olayajaider10@gmail.com**
+<!--Final de inicio-->
 </p>
 <br>
 
