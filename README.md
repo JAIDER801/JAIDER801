@@ -1,5 +1,16 @@
 <h1 align="center">Hola 👋 soy Jaider Olaya</h1><!--## Hi there 👋-->
 
+
+<br>
+<h2>Sobre mi </h2>
+
+<p align="left">
+  ESTUDIANTE EN INGENIERIA DE SOFTWARE
+  Contacto: **olayajaider10@gmail.com**
+</p>
+<br>
+
+
 <!--
 **JAIDER801/JAIDER801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
