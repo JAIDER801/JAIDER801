@@ -14,7 +14,9 @@
 <p align="left">
 🎓 ESTUDIANTE EN INGENIERIA DE SOFTWARE
 
-  Contacto: **olayajaider10@gmail.com**
+​💻​ Estoy estudiando por mi propia cuenta para adquirir un año o más de experiencia en programación y otras tecnologías para un trabajo laboral
+
+​📬​ Contacto: **olayajaider10@gmail.com**
 <!--Final de inicio-->
 </p>
 <br>
@@ -23,7 +25,7 @@
 <!--Iconos de conjuntos de tecnologías-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,php,py,vscode,css,html,js,git,github,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,php,py,vscode,css,html,js,git,github,MySQLps&perline=12" />
   </a>
 </p>
 <!--
