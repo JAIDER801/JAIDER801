@@ -2,7 +2,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/JAIDER801" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JAIDER801"/></a>
- <a href="mailto:olayajaider10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:olayajaider10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a></a>
   <!--https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white-->
 </p>
 <br>
