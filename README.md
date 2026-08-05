@@ -22,7 +22,7 @@
 <br>
 
 <h2>Tecnologías conocidas 🧑‍💻​​</h2>
-<!--Iconos de conjuntos de tecnologías-->
+<!--Iconos de la pila tecnológica-->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,php,py,vscode,css,html,js,git,github,ps,mysql&perline=12" />
