@@ -20,7 +20,12 @@
 <br>
 
 <h2>Tecnologías conocidas 🧑‍💻​​</h2>
-
+<!--Iconos de conjuntos de tecnologías-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https.//skillicons.dev/icons?i=androidstudio,php,py,vscode,css,html,js,git,gihub,ps&perline=12" />
+  </a>
+</p>
 <!--
 **JAIDER801/JAIDER801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
