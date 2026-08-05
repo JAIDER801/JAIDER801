@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<h2>Tecnologías conocidas 🧑‍💻​</h2>
+<h2>Tecnologías conocidas 💁​</h2>
 
 <!--
 **JAIDER801/JAIDER801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
