@@ -6,18 +6,20 @@
   <a></a>
   <!--https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white-->
 </p>
+
 <br>
-<h2>Sobre mi </h2>
+<h2>Sobre mi ☺️</h2>
 <!--Comienzo de inicio-->
 
 <p align="left">
-  ESTUDIANTE EN INGENIERIA DE SOFTWARE
-  
+🎓 ESTUDIANTE EN INGENIERIA DE SOFTWARE
+
   Contacto: **olayajaider10@gmail.com**
 <!--Final de inicio-->
 </p>
 <br>
 
+<h2>Tecnologías conocidas 🧑‍💻​</h2>
 
 <!--
 **JAIDER801/JAIDER801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
